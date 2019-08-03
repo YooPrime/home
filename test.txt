@@ -1,2 +1,7 @@
 aaaaaaaaaaaaaaaaaaaaaaaa
-ssssssssssssssssss
+<<<<<<< Updated upstream
+
+
+git checkout -b dev
+第二次切换到dev
+>>>>>>> Stashed changes
